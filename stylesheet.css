@@ -16,8 +16,10 @@ background-size: 32px 32px;
 }
 .profile-container {
   display: flex;       
-  align-items: center; 
-  gap: 200px;          
+  align-items: center;  
+  justify-content: center; 
+  gap: 50px;              
+  margin: 0 auto;         
 }
 .fit-picture {
   width: 150px;       
