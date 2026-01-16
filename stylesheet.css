@@ -1,5 +1,27 @@
+body{
+    background-color: #f8f8ff;
+    background-image: linear-gradient(0deg, transparent 31px, #d3d3d3 32px), linear-gradient(90deg,  transparent 31px, #d3d3d3 32px);
+background-size: 32px 32px;
+}
 .lw { font-size: 60px; }
 
-h3{
-    color:#ff0000;
+.profile-container {
+  display: flex;       
+  align-items: center; 
+  gap: 200px;          
+}
+.fit-picture {
+  width: 150px;       
+  height: auto;
+}
+
+.box1 {
+    padding: 0.5em 1em;
+    margin: 2em 0;
+    font-weight: bold;
+    border: solid 3px #000000;
+}
+.box1 p {
+    margin: 0; 
+    padding: 0;
 }
