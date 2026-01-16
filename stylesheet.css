@@ -4,7 +4,16 @@ body{
 background-size: 32px 32px;
 }
 .lw { font-size: 60px; }
-
+.box3 {
+    padding: 0.5em 1em;
+    margin: 2em 0;
+    color: #f0f4ff;
+    background: #778899
+}
+.box3 p {
+    margin: 0; 
+    padding: 0;
+}
 .profile-container {
   display: flex;       
   align-items: center; 
